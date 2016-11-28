@@ -1,2 +1,2 @@
 # php-cms
-Content Management System (PHP)
+Content Management System (PHP+MySQL)
